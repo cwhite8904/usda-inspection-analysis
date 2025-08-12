@@ -1,0 +1,7 @@
+notebooks/README.md
+# Analysis Notebooks
+
+This folder contains the Jupyter notebooks for the USDA inspection analysis.
+
+## Main Analysis
+- `usda_inspection_analysis.ipynb` - Complete establishment performance analysis
