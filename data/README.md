@@ -103,3 +103,30 @@ This project analyzes comprehensive USDA inspection data to identify performance
 ### **Risk Scoring Formula**
 ```python
 Risk Score = (Violation Rate × 60) + (Directed Inspection Rate × 30) + (Regulation Diversity Penalty × 10)
+
+usda-inspection-analysis/
+├── 📊 notebooks/
+│   ├── usda_inspection_analysis.ipynb    # Main analysis notebook
+│   └── README.md                         # Notebook documentation
+├── 📂 data/
+│   └── README.md                         # Data source information
+├── 📋 requirements.txt                   # Python dependencies
+├── 📄 LICENSE                           # MIT License
+└── 📖 README.md                         # This file
+
+📞 Contact
+Author: Chris White
+LinkedIn: www.linkedin.com/in/
+chris-white-80462425a
+Email: cwhite8904@gmail.com
+
+
+🙏 Acknowledgments
+
+USDA Food Safety and Inspection Service for maintaining transparent inspection records
+U.S. Department of Agriculture for public data accessibility
+Python community for excellent data science tools
+Open source contributors who make analysis like this possible
+
+
+⭐ If you found this analysis valuable, please star this repository and share with fellow data professionals!
